@@ -1,4 +1,4 @@
-# 🧠 B.I.A.S -  Bias Interviewers Analyzer Support
+# 🧠 B.I.A.S -  Bias Interviewers Analysis Solution
 
 > Uncover hidden biases and improve your interviewing skills.
 
