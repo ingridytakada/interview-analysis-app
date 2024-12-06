@@ -1,4 +1,4 @@
-# 🧠 CloudWalk - Interviewers Bias Analyzer
+# 🧠 B.I.A.S -  Bias Interviewers Analyzer Support
 
 > Uncover hidden biases and improve your interviewing skills.
 
